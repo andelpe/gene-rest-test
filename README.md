@@ -58,7 +58,7 @@ GRANT ALL PRIVILEGES ON genes.* TO 'test'@'localhost';
 Now, in your work area, clone this repository and cd into it:
 ```
 git clone https://github.com/andelpe/gene-rest-test.git
-cd gene-rest
+cd gene-rest-test
 ```
 
 Finally, populate de database:
